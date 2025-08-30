@@ -1,7 +1,8 @@
 {
-  "Header": "Cosmix 2K Premium Menu",
-  "VideoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "Header": "Modding Community Hub",
+  "VideoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
   "Disable": "No",
-  "Announcement": "Welcome to the mod menu! Enjoy the game!",
-  "MessageIntentUrl": "https://m.me/yourusername"
+  "Announcement": "Welcome to our modding community! Enjoy the latest game cheats.",
+  "FacebookUrl": "https://www.facebook.com/your_modding_page",
+  "YoutubeUrl": "https://www.youtube.com/@your_modding_channel"
 }
