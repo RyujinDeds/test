@@ -1,13 +1,14 @@
 {
   "Header": "WELCOME",
   "Announcement": "Welcome to my app. Please watch this video for an important announcement.",
-  "VideoUrl": "https://ik.imagekit.io/516qjkf9je/sample-video.mp4?updatedAt=1756569569491",
+  "VideoUrl": "https://raw.githubusercontent.com/RyujinDeds/test2/main/video.mp4",
   "FacebookUrl": "https://www.facebook.com/yourpage",
   "YoutubeUrl": "http://youtube.com/yourchannel",
   "Disable": "No",
   "LatestVersion": "1.1",
   "UpdateHeader": "NEW UPDATE AVAILABLE",
   "UpdateAnnouncement": "There is a new version available. Please update to get the latest features and bug fixes.",
-  "UpdateUrl": "https://drive.google.com/uc?export=download&id=1Zm2xGmJNJ7BfzXXQo0GqAiqsy03HfS4m",
-  "ForceUpdate": "Yes"
+  "UpdateUrl": "https://www.mediafire.com/file/latest_apk_link/file",
+  "ForceUpdate": "No",
+  "GifUrl": "https://media.giphy.com/media/l4FGBF0I7H2a7B3m8/giphy.gif"
 }
