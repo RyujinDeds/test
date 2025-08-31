@@ -5,10 +5,9 @@
   "FacebookUrl": "https://www.facebook.com/yourpage",
   "YoutubeUrl": "http://youtube.com/yourchannel",
   "Disable": "No",
-  "LatestVersion": "1.0",
+  "LatestVersion": "4.0",
   "UpdateHeader": "NEW UPDATE AVAILABLE",
   "UpdateAnnouncement": "There is a new version available. Please update to get the latest features and bug fixes.",
   "UpdateUrl": "https://www.mediafire.com/file/latest_apk_link/file",
-  "ForceUpdate": "No",
-  "GifUrl": "https://media1.tenor.com/m/Jeal--gpVQgAAAAC/unsolved-mysteries-update.gifnaWZfYnlfaWQmY3Q9Zw/2x0tJVAL3IqFnZYhYt/giphy.gif"
+  "ForceUpdate": "No"
 }
